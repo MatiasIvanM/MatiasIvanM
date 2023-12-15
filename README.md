@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasivanm&label=Profile%20views&color=0e75b6&style=flat" alt="matiasivanm" /> </p>
 
 
-- 🔭 I’m currently working on **Electrocentro Stcok&InventoryControll**
+- 🔭 I’m currently working on **Electrocentro Stock&InventoryControll**
 
 - 🌱 I’m currently learning **.net languages ​​and their environments**
 
