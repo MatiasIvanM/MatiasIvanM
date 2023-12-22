@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Electrocentro Stock&InventoryControll**
 
-- 🌱 I’m currently learning **.net languages ​​and their environments**
+- 🌱 I’m currently learning **Testing Automation and Q&A**
 
 - 👯 I’m looking to collaborate on **projects that take my capabilities to the maximum**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **matiasivan.sd@gmail.com**
 
-- ⚡ Fun fact **I used to train search and rescue dogs for the fire department.**
+- ⚡ Fun fact **I used to train search and rescue dogs for the Volunteer Firefighters department.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
