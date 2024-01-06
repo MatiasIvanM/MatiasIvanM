@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasivanm&label=Profile%20views&color=0e75b6&style=flat" alt="matiasivanm" /> </p>
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">A passionate about how things work & FullStack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasivanm&label=Profile%20views&color=0e75b6&style=flat" alt="matiasivanm" /> </p>
+
 
 - 🔭 I’m currently working on **Electrocentro Stcok&InventoryControll**
 
