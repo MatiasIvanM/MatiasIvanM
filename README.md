@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on **Electrocentro Stcok&InventoryControll**
+- 🔭 I’m currently working on **Virtual assistant powered by AI**
 
-- 🌱 I’m currently learning **Testing Automation and Q&A**
+- 🌱 I’m currently learning **Ai & how the people use ir for assitance**
 
-- 👯 I’m looking to collaborate on **projects that take my capabilities to the maximum**
+- 👯 I’m looking to collaborate on **any project that challenges me to learn**
 
-- 🤝 I’m looking for help with **anything that challenges me**
+- 🤝 I look for help when **when I'm stuck**
 
 - 💬 Ask me about **New Technologies and Creative Solutions**
 
