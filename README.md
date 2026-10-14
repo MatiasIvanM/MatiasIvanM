@@ -33,9 +33,9 @@ Each project is told as a decision and what came out of it.
 
 | | |
 |---|---|
-| **Problem** | [One sentence: what was slow, error-prone, or manual before this existed.] |
-| **Decision** | [One sentence: the key call you made, and what you chose not to do.] |
-| **Result** | [A number: hours saved per week, errors avoided, flows automated.] |
+| **Problem** | Running a property business meant working across around several separate pages: manual, scattered, and with no central control. |
+| **Decision** | Centralize. I started by observing the problem, then designed integrations around day-to-day operations and productivity. |
+| **Result** | One platform that brings multiple sources of information together, easier to use and with fewer hours of manual work. |
 
 `Data modeling` `Roles and permissions` `Backoffice workflows`
 
@@ -43,9 +43,10 @@ Each project is told as a decision and what came out of it.
 
 | | |
 |---|---|
-| **Problem** | [One sentence: how riders find rides and safety information today.] |
-| **Decision** | [One sentence: what you chose to build first and why.] |
-| **Result** | [A number or milestone: users, rides listed, features shipped.] |
+| **Problem** | Each group promotes its rides and meetups through different channels, so events don't reach the audience they could and stay less visible than they should. |
+| **Decision** | Build from the community first: ride, talk to people, and learn what they need before writing code. |
+| **Target** | 5 to 6 rides registered in the best riding months, 5,000+ registered users, and a 30-40% improvement in reach. |
+| **Also planned** | Centralized rider registration per ride, shareable routes, and a free QR with medical information. |
 
 `Ride discovery` `Location-based` `Safety content`
 
